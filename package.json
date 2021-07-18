@@ -1,6 +1,6 @@
 {
   "name": "grapesjs-countup-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grapesjs Countup Plugin",
   "main": "dist/grapesjs-countup-plugin.min.js",
   "repository": {
